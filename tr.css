@@ -1,0 +1,35 @@
+body{
+    margin:0%;
+    text-align:center;
+    background: linear-gradient(to top, #bdc3c7, #2c3e50);
+    font-family: 'Yomogi', cursive;
+}
+h1{
+    font-size: 7vh;
+    padding:0%;
+    text-shadow: 5px 5px 10px whitesmoke;
+    margin-bottom:1px;
+}
+p{
+    position: relative;
+    bottom: 6px;
+}
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+section{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+h3:nth-of-type(1){
+    display: flex;
+    justify-content: center;
+}
+section p{
+    margin-bottom: 0;
+}
